@@ -20,7 +20,7 @@ android {
     }
 }
 
-group = 'PullMoreRefreshLayout'
+group = 'com.yan.PullMoreRefreshLayout'
 version = '1.0.0'
 
 tasks.withType(JavaCompile) {
